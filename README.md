@@ -1,1 +1,1 @@
-# ultimate-pandas-bootcamp
+# The Ultimate Pandas Bootcamp
